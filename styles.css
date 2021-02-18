@@ -1,0 +1,52 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .block1{
+    position: relative;
+    width: 1000px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    display: block;
+  }
+  .block2{
+    position: absolute;
+    width: 515px;
+    height: 478px;
+    margin-left: 385px;
+    margin-top: 72px;
+  }
+  .photo{
+    position: absolute;
+    width: 292px;
+    margin-top: 72px;
+    margin-left: 58px;
+    background-color: rgb(196,196,196);
+  }
+  .name{
+    position: relative;
+    width: 480px;
+    text-align: center;
+    font-size: 18pt;
+    padding: 15px;
+    background-color: rgb(196,196,196);
+  }
+  .text{
+    position: relative;
+    margin-left: 5px;;
+    font-size: 18pt;
+  }
+  .methods{
+    position: relative;
+    margin-top: 12px;
+    margin-right: 12px;
+    padding: 5px;
+  }
+  .methods li {
+    display: inline-block;
+    background-color: rgb(196,196,196);
+    margin-top: 12px;
+    margin-right: 12px;
+    padding: 5px;
+  }
